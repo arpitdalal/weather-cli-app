@@ -8,3 +8,4 @@ request({url: url, json: true}, (error, response) => {
         + ' degrees out. There is ' + response.body.currently.precipProbability
         + '% chance of rain.')
 })
+
