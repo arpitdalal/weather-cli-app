@@ -1,0 +1,22 @@
+{
+  "name": "weather-web-app",
+  "version": "1.0.0",
+  "description": "web app to provide weather info using locations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpitdalalm/weather-web-app.git"
+  },
+  "author": "jsn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpitdalalm/weather-web-app/issues"
+  },
+  "homepage": "https://github.com/arpitdalalm/weather-web-app#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
